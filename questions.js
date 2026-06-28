@@ -29,7 +29,7 @@ questions = [
     },
     {
         "question": "The military situation with The Brotherhood and The Legion is hopeless.",
-        "effect": { "econ": 0, "dipl": 0, "govt": 5, "scty": 10 }
+        "effect": { "econ": 0, "dipl": 0, "govt": 10, "scty": 0 }
     },
     {
         "question": "Ghouls have an odor problem that makes them hard to live around.",
