@@ -9,7 +9,7 @@ questions = [
     },
     {
         "question": "Independent and cooperative ranches make up the backbone of the californian middle class.",
-        "effect": { "econ": 10, "dipl": 0, "govt": 0, "scty": 5 }
+        "effect": { "econ": 10, "dipl": 0, "govt": 0, "scty": -5 }
     },
     {
         "question": "The NCR’s track record on foreign policy can be summed up in two words: Powder Gangers.",
@@ -17,11 +17,11 @@ questions = [
     },
     {
         "question": "Ghoul and supermutant integration into the army can only help us.",
-        "effect": { "econ": 0, "dipl": -10, "govt": 0, "scty": -5 }
+        "effect": { "econ": 0, "dipl": -10, "govt": 0, "scty": 5 }
     },
     {
         "question": "Pre-war America, despite its flaws, is still a model to strive for.",
-        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": 10 }
+        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": -10 }
     },
     {
         "question": "Brahmin Barons have a parasitic relationship to their farmhands/tenant farmers.",
@@ -41,11 +41,11 @@ questions = [
     },
     {
         "question": "Brahmin Barons are uniquely destructive to California's already fragile post-war environment.",
-        "effect": { "econ": 10, "dipl": 0, "govt": 0, "scty": -5 }
+        "effect": { "econ": 10, "dipl": 0, "govt": 0, "scty": 5 }
     },
     {
         "question": "I would vote for a super mutant if he shared my views.",
-        "effect": { "econ": 0, "dipl": -10, "govt": 0, "scty": -5 }
+        "effect": { "econ": 0, "dipl": -10, "govt": 0, "scty": 5 }
     },
     {
         "question": "NCR expansion is not imperialism.",
@@ -53,11 +53,11 @@ questions = [
     },
     {
         "question": "I prefer Nuka cola to purified water, I don’t care that its flat.",
-        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": 10 }
+        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": -10 }
     },
     {
         "question": "Brahmin Barons have earned their wealth through their own hard work.",
-        "effect": { "econ": -10, "dipl": 0, "govt": 0, "scty": 5 }
+        "effect": { "econ": -10, "dipl": 0, "govt": 0, "scty": -5 }
     },
     {
         "question": "The risk of ghouls going feral is not taken seriously enough.",
@@ -69,7 +69,7 @@ questions = [
     },
     {
         "question": "I trust the NCR more than I could ever trust a pre war politician.",
-        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": -10 }
+        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": 10 }
     },
     {
         "question": "The people of Baja and the Mojave are better off because of us.",
@@ -85,7 +85,7 @@ questions = [
     },
     {
         "question": "I often feel like we’re living in the ruins of a far greater society.",
-        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": 10 }
+        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": -10 }
     },
     {
         "question": "The senator who paid mercenaries to harass Jacobstown should be removed from office.",
@@ -101,11 +101,11 @@ questions = [
     },
     {
         "question": "The New California Republic is the rightful heir of America.",
-        "effect": { "econ": 0, "dipl": 0, "govt": -10, "scty": 5 }
+        "effect": { "econ": 0, "dipl": 0, "govt": -10, "scty": -5 }
     },
     {
         "question": "I’m Californian first, American second.",
-        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": -10 }
+        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": 10 }
     },
     {
         "question": "The army should make an effort to contain, not kill feral ghouls so they might one day be cured.",
@@ -113,7 +113,7 @@ questions = [
     },
     {
         "question": "Brahmin Baronism will inevitably lead to the production of pre-war slop foods like saddle-up salisbury steak.",
-        "effect": { "econ": 10, "dipl": 0, "govt": 0, "scty": -5 }
+        "effect": { "econ": 10, "dipl": 0, "govt": 0, "scty": 5 }
     },
     {
         "question": "The people of the Mojave are now our citizens and we have an equal responsibility to them as we do to the people of The Boneyard or Shady Sands.",
@@ -125,7 +125,7 @@ questions = [
     },
     {
         "question": "The adoption of the NCR dollar over bottlecaps was a good idea.",
-        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": 10 }
+        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": -10 }
     },
     {
         "question": "I would rather buy brahmin meat from a farming co-operative even if it was more expensive.",
@@ -141,7 +141,7 @@ questions = [
     },
     {
         "question": "My great grandchildren will live better lives than my 7th great grandparents did.",
-        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": -10 }
+        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": 10 }
     },
     {
         "question": "Tandi’s cap on brahmin herd sizes incurred little benefit and only put inflationary pressure on prices.",
@@ -153,10 +153,10 @@ questions = [
     },
     {
         "question": "The NCR should build a new rail network instead of rebuilding the highways.",
-        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": -10 }
+        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": 10 }
     },
     {
         "question": "I prefer New Reno to New Vegas.",
-        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": -10 }
+        "effect": { "econ": 0, "dipl": 0, "govt": 0, "scty": 10 }
     }
 ];
