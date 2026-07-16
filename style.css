@@ -226,12 +226,12 @@ div.text-wrapper {
     display: inline-block;
 }
 div.equality {
-    background-color: #f44336;
+    background-color: #22B14C;
     text-align: left;
     border-right-style: solid;
 }
 div.wealth {
-    background-color: #00897b;
+    background-color: #880015;
     text-align: right;
     border-left-style: solid;
 }
@@ -246,7 +246,7 @@ div.authority {
     border-left-style: solid;
 }
 div.peace {
-    background-color: #03a9f4;
+    background-color: #7F7F7F;
     text-align: right;
     border-left-style: solid;
 }
